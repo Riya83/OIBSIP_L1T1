@@ -1,5 +1,5 @@
 # Landing Page
-This a Langing Page developed by me using HTML and CSS, under the internship of Oasis Infobyte. 
+This is a Langing Page developed by me using HTML and CSS, under the internship of Oasis Infobyte. 
 
 It contains:
   - Information about COVID-19
